@@ -1,6 +1,3 @@
-Certainly! Here’s the updated version of the lab instructions without solution code, but with the sample data insertion included:
-
----
 
 # E-Commerce Database Lab: PostgreSQL Relationships
 
